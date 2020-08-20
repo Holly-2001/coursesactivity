@@ -26,7 +26,7 @@ class coursesactivity : AppCompatActivity() {
                 Coursesactivity(5004, "Kotlin", 40894, "Fiddy", "Kotlin project1"),
                 Coursesactivity(5005, "Kotlin", 40674, "Brenda", "Kotlin project1")
 
-            )
+                )
         )
 
     }
